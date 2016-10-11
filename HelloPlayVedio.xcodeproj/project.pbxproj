@@ -12,6 +12,7 @@
 		5603D4201DA7764600ACAB40 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5603D41E1DA7764600ACAB40 /* Main.storyboard */; };
 		5603D4221DA7764600ACAB40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5603D4211DA7764600ACAB40 /* Assets.xcassets */; };
 		5603D4251DA7764600ACAB40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5603D4231DA7764600ACAB40 /* LaunchScreen.storyboard */; };
+		5603D42D1DA7767D00ACAB40 /* HipHop.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 5603D42C1DA7767D00ACAB40 /* HipHop.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5603D4211DA7764600ACAB40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5603D4241DA7764600ACAB40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5603D4261DA7764600ACAB40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5603D42C1DA7767D00ACAB40 /* HipHop.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = HipHop.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				5603D41A1DA7764600ACAB40 /* AppDelegate.swift */,
 				5603D41C1DA7764600ACAB40 /* ViewController.swift */,
 				5603D41E1DA7764600ACAB40 /* Main.storyboard */,
+				5603D42C1DA7767D00ACAB40 /* HipHop.mp4 */,
 				5603D4211DA7764600ACAB40 /* Assets.xcassets */,
 				5603D4231DA7764600ACAB40 /* LaunchScreen.storyboard */,
 				5603D4261DA7764600ACAB40 /* Info.plist */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5603D4251DA7764600ACAB40 /* LaunchScreen.storyboard in Resources */,
+				5603D42D1DA7767D00ACAB40 /* HipHop.mp4 in Resources */,
 				5603D4221DA7764600ACAB40 /* Assets.xcassets in Resources */,
 				5603D4201DA7764600ACAB40 /* Main.storyboard in Resources */,
 			);
